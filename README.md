@@ -3,6 +3,7 @@
 
 The Turtle Race Game is more than just a fun activity—it's a gateway to learning Python in an exciting and interactive way! Whether you're a beginner taking your first steps into programming or an experienced coder looking for a lighthearted project, this game has something for everyone. Dive into the world of loops, functions, and libraries while cheering for your favorite turtle. With colorful graphics and a touch of friendly competition, this project makes learning Python both enjoyable and rewarding. So, place your bets, start the race, and let the learning adventure begin!
 
+## I order to run the code you can run main.py in your code editor.
 ## Preview
 
 <p align="center">
@@ -17,31 +18,16 @@ Turtle Race Game is a simple and fun game where players can bet on the color of 
 ## This project is an excellent way for beginners to learn Python
 As it covers basic concepts like loops, functions, and working with libraries.
 
-## Instructions
-To run the Turtle Race Game, follow these steps:
+## Learn More About the Code
 
-1. **Clone the repository**:
-   ```
-   git clone https://github.com/armanstudy/turtle-race-game.git
-   ```
-   
-2. **Navigate to the project directory**:
-   ```
-   cd turtle-race-game
-   ```
+For a detailed explanation of the code and its functionality, refer to the `Code_in_detail.py` file. This file includes comprehensive comments and descriptions to help you understand how the Turtle Race Game works. It's a great resource for beginners to learn Python concepts such as:
 
-3. **Install dependencies**:
-   The turtle graphics library is typically included with Python installations, so no additional installation is usually necessary. However, ensure you have Python installed on your system.
+- Using the `turtle` library for graphics.
+- Writing reusable functions.
+- Implementing loops and conditional logic.
+- Handling user input.
 
-4. **Run the game**:
-   Execute the main script:
-   ```
-   python src/main.py
-   ```
-
-5. **Make your bet**:
-   When prompted, enter the color of the turtle you think will win the race.
-
+Explore `Code_in_detail.py` to deepen your understanding and enhance your learning experience!
 ## Dependencies
 - Python (version 3.6 or higher recommended)
 - turtle (usually included with Python installations)
